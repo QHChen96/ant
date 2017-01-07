@@ -1,0 +1,8 @@
+/target/
+/catalina.base_IS_UNDEFINED/
+/.settings/
+/.idea/
+/.springBeans/
+/.classpath/
+/.project/
+/logs/
